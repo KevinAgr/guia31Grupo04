@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="./ejercicio6.css" ?>
+<!-- Ejercicio 6 -->
+<ciclo numeroCiclo="2" anyo="2022">
+    <estudiante nombres="Juan Rafael" apellidos="Ramos Bukele" carnet="RB20115">
+        <materia codigo="TPI115" nombre="Técnicas de programación para Internet">
+            <teorico>Lunes y martes 9:50 am</teorico>
+            <laboratorio>Jueves 8 am</laboratorio>
+        </materia>
+        <materia codigo="TSI115" nombre="Teoría de sistemas">
+            <teorico>Lunes y miércoles 11:30 am</teorico>
+            <laboratorio>Jueves 1 pm</laboratorio>
+        </materia>
+        <materia codigo="SIC" nombre="Sistemas contables">
+            <teorico>Martes y viernes 6:20 am</teorico>
+            <laboratorio>Viernes 1:15 pm</laboratorio>
+        </materia>
+    </estudiante>
+</ciclo>
