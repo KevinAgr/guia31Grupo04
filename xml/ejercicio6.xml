@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<?xml-stylesheet type="text/css" href="./ejercicio6.css" ?>
+<?xml-stylesheet type="text/css" href="../css/ejercicio6.css" ?>
 <!-- Ejercicio 6 -->
 <ciclo numeroCiclo="2" anyo="2022">
     <estudiante nombres="Juan Rafael" apellidos="Ramos Bukele" carnet="RB20115">
