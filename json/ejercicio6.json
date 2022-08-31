@@ -1,0 +1,31 @@
+{
+	"ciclo":{
+		"@numeroCiclo":"2",
+		"@anyo":"2022",
+		"estudiante":{
+			"@nombres":"Juan Rafael",
+			"@apellidos":"Ramos Bukele",
+			"@carnet":"RB20115",
+			"materia":[
+				{
+					"@codigo":"TPI115",
+					"@nombre":"Técnicas de programación para Internet",
+					"teorico":"Lunes y martes 9:50 am",
+					"laboratorio":"Jueves 8 am"
+				},
+				{
+					"@codigo":"TSI115",
+					"@nombre":"Teoría de sistemas",
+					"teorico":"Lunes y miércoles 11:30 am",
+					"laboratorio":"Jueves 1 pm"
+				},
+				{
+					"@codigo":"SIC",
+					"@nombre":"Sistemas contables",
+					"teorico":"Martes y viernes 6:20 am",
+					"laboratorio":"Viernes 1:15 pm"
+				}
+			]
+		}
+	}
+}
