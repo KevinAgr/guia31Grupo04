@@ -1,0 +1,83 @@
+@charset "UTF-8";
+/* CSS Document HS19011 */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ciclo::before {
+    content: "Ciclo " attr(numeroCiclo)" " attr(anyo);
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial;
+    background-color: #3C4560;
+    border-style: none solid none solid;
+    border-color: #EABE3F;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    display: block;
+}
+
+ciclo {
+    background-color: #303845;
+    color: #C5C8CF;
+    font-family: Comic Sans, Comic Sans MS, Arial;
+    width: 800px;
+    margin: 10px auto;
+    border-style: solid;
+    border-color: #EABE3F;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 1.4em;
+    display: block;
+}
+
+estudiante::before {
+    content: "Nombre: " attr(nombres)" --- Apellidos: " attr(apellidos)" --- Carnet: " attr(carnet);
+    justify-content: center;
+    display: flex;
+
+}
+
+estudiante {
+    display: block;
+}
+
+materia::before {
+    content: "Codigo: " attr(codigo)" Nombre: " attr(nombre)".";
+    display: grid;
+    justify-content: center;
+    margin-top: 10px;
+    background-color: rgb(114, 166, 211);
+    border-radius: 5px 5px 0 0;
+    color: black;
+}
+
+teorico::before {
+    content:"Teorico: ";
+}
+
+teorico {
+    display: flex;
+    content:"Teorico: ";
+    color: black;
+    justify-content: center;
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+laboratorio::before {
+    content:"Laboratorio: ";
+}
+
+laboratorio {
+    color: black;
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    padding: 10px;
+}
