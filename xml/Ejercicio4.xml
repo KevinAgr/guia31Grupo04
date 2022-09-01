@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<registroSNET>
+<semana id="4">
+      <fecha dia="23" mes="agosto" año="2022">
+        <region tipo="Occidental">
+            <temperaturas>
+              <minima>21°C</minima>
+              <promedio>27°C</promedio>
+              <maxima>34°C</maxima>
+            </temperaturas>
+        </region>
+        <region tipo="Central">
+          <temperaturas>
+            <minima>18°C</minima>
+            <promedio>24°C</promedio>
+            <maxima>29°C</maxima>
+          </temperaturas>
+        </region>
+        <region tipo="Oriental">
+          <temperaturas>
+            <minima>20°C</minima>
+            <promedio>27°C</promedio>
+            <maxima>34°C</maxima>
+          </temperaturas>
+        </region>
+      </fecha>
+      
+      <fecha dia="24" mes="agosto" año="2022">
+        <region tipo="Occidental">
+            <temperaturas>
+              <minima>21°C</minima>
+              <promedio>25°C</promedio>
+              <maxima>29°C</maxima>
+            </temperaturas>
+          </region>
+          <region tipo="Central">
+            <temperaturas>
+              <minima>19°C</minima>
+              <promedio>23°C</promedio>
+              <maxima>27°C</maxima>
+            </temperaturas>
+          </region>
+          <region tipo="Oriental">
+            <temperaturas>
+              <minima>20°C</minima>
+              <promedio>25°C</promedio>
+              <maxima>30°C</maxima>
+            </temperaturas>
+          </region>
+      </fecha>
+  </semana>
+  
+<semana id="5">
+      <fecha dia="30" mes="agosto" año="2022">
+        <region tipo="Occidental">
+            <temperaturas>
+              <minima>19°C</minima>
+              <promedio>24°C</promedio>
+              <maxima>29°C</maxima>
+            </temperaturas>
+          </region>
+          <region tipo="Central">
+            <temperaturas>
+              <minima>18°C</minima>
+              <promedio>23°C</promedio>
+              <maxima>27°C</maxima>
+            </temperaturas>
+          </region>
+          <region tipo="Oriental">
+            <temperaturas>
+              <minima>21°C</minima>
+              <promedio>26°C</promedio>
+              <maxima>31°C</maxima>
+            </temperaturas>
+          </region>
+      </fecha>
+      
+      <fecha dia="31" mes="agosto" año="2022">
+        <region tipo="Occidental">
+            <temperaturas>
+              <minima>18°C</minima>
+              <promedio>24°C</promedio>
+              <maxima>32°C</maxima>
+            </temperaturas>
+        </region>
+        <region tipo="Central">
+            <temperaturas>
+              <minima>16°C</minima>
+              <promedio>24°C</promedio>
+              <maxima>30°C</maxima>
+            </temperaturas>
+        </region>
+        <region tipo="Oriental">
+            <temperaturas>
+              <minima>20°C</minima>
+              <promedio>25°C</promedio>
+              <maxima>36°C</maxima>
+            </temperaturas>
+        </region>
+      </fecha>
+  </semana>
+
+</registroSNET>
