@@ -1,0 +1,114 @@
+{
+  "registroSNET": {
+    "semana": [
+      {
+        "fecha": [
+          {
+            "region": [
+              {
+                "temperaturas": {
+                  "minima": "21°C",
+                  "promedio": "27°C",
+                  "maxima": "34°C"
+                }
+              },
+              {
+                "temperaturas": {
+                  "minima": "18°C",
+                  "promedio": "24°C",
+                  "maxima": "29°C"
+                }
+              },
+              {
+                "temperaturas": {
+                  "minima": "20°C",
+                  "promedio": "27°C",
+                  "maxima": "34°C"
+                }
+              }
+            ]
+          },
+          {
+            "region": [
+              {
+                "temperaturas": {
+                  "minima": "21°C",
+                  "promedio": "25°C",
+                  "maxima": "29°C"
+                }
+              },
+              {
+                "temperaturas": {
+                  "minima": "19°C",
+                  "promedio": "23°C",
+                  "maxima": "27°C"
+                }
+              },
+              {
+                "temperaturas": {
+                  "minima": "20°C",
+                  "promedio": "25°C",
+                  "maxima": "30°C"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "fecha": [
+          {
+            "region": [
+              {
+                "temperaturas": {
+                  "minima": "19°C",
+                  "promedio": "24°C",
+                  "maxima": "29°C"
+                }
+              },
+              {
+                "temperaturas": {
+                  "minima": "18°C",
+                  "promedio": "23°C",
+                  "maxima": "27°C"
+                }
+              },
+              {
+                "temperaturas": {
+                  "minima": "21°C",
+                  "promedio": "26°C",
+                  "maxima": "31°C"
+                }
+              }
+            ]
+          },
+          {
+            "region": [
+              {
+                "temperaturas": {
+                  "minima": "18°C",
+                  "promedio": "24°C",
+                  "maxima": "32°C"
+                }
+              },
+              {
+                "temperaturas": {
+                  "minima": "16°C",
+                  "promedio": "24°C",
+                  "maxima": "30°C"
+                }
+              },
+              {
+                "temperaturas": {
+                  "minima": "20°C",
+                  "promedio": "25°C",
+                  "maxima": "36°C"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
