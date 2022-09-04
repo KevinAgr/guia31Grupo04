@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+registroSNET {
+    background-color: #0F3460;
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: white;
+}
+
+semana {
+    font-size: 5vh;
+}
+
+fecha::before {
+    display: block;
+    text-align: center;
+    font-weight: bolder;
+    content: "Fecha: "attr(dia)"/"attr(mes)"/"attr(año);
+    background-color: #E94560;
+    padding: 3vh;
+    letter-spacing: 2vh;
+}
+
+semana::before {
+    content: "TEMPERATURAS EN LA SEMANA: "attr(id);
+    padding: 2vh;
+    display: block;
+    font-weight: bold;
+    letter-spacing: 0.5vh;
+    background-color: #533483;
+}
+
+region::before {
+    padding: 2vh;
+    padding-left: 8vh;
+    content: "Región: " attr(tipo);
+    display: block;
+    background-color: #16213E;
+}
+
+minima::before {
+    content: "Minima: ";
+}
+
+promedio::before {
+    content: "Promedio: ";
+}
+
+maxima::before {
+    content: "Máxima: ";
+}
+
+minima {
+    display: list-item;
+    list-style: disc inside;
+    padding: 5vh;
+    margin-left: 10vh;
+}
+
+promedio {
+    display: list-item;
+    list-style: disc inside;
+    padding: 5vh;
+    margin-left: 10vh;
+}
+
+maxima {
+    display: list-item;
+    list-style: disc inside;
+    padding: 5vh;
+    margin-left: 10vh;
+}
