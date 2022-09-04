@@ -1,0 +1,45 @@
+agenda {
+    background-color: #D9D7F1;
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: #030000;
+    text-align: center;
+    
+}
+
+titulo {
+    font-size: 5vh;
+}
+
+NdeContacto::before {
+    padding: 2vh;
+    padding-left: 4vh;
+    content: "CONTACTO " attr(numero);
+    display: block;
+    background-color: #FFCBCB; 
+
+}
+nombre {
+    padding: 1vh;
+    display:block;
+    background-color: #B2A4FF;
+}
+telefonoFijo {
+    padding: 1vh;
+    display:block;
+    background-color: #B2A4FF;
+}
+celular {
+    padding: 1vh;
+    display:block;
+    background-color: #B2A4FF;
+}
+direccion {
+    padding: 1vh;
+    display:block;
+    background-color: #B2A4FF;
+}
+email {
+    padding: 1vh;
+    display:block;
+    background-color: #B2A4FF;
+}
