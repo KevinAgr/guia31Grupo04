@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="../css/agenda.css" ?>
+<agenda>
+  <titulo>Agenda</titulo>
+  <contacto>
+    <NdeContacto numero="1"></NdeContacto>
+    <nombre>Nombre: Ana María</nombre>
+    <telefonoFijo>Telefono fijo: 2256-9348</telefonoFijo>
+    <celular>Celular: 6145-8769</celular>
+    <direccion>Direccion: Avenida Monseñor Romero y Final Calle 5 de Noviembre entre 21ª y 23ª Calle Oriente, una cuadra al norte del Mercado San Miguelito.</direccion>
+    <email>email: ana@gmail.com</email>
+  </contacto>
+  <contacto>
+    <NdeContacto numero="2"></NdeContacto>
+    <nombre>Nombre: Pedro Alvarez</nombre>
+    <telefonoFijo>Telefono fijo: 2275-9874</telefonoFijo>
+    <celular>Celular: 6758-9896</celular>
+    <direccion>Direccion: Colonia Buenos Aires 3, Diagonal Centroamérica, Avenida Alvarado, contiguo al Ministerio de Hacienda</direccion>
+    <email>email: pedro@gmail.com</email>
+  </contacto>
+  <contacto>
+    <NdeContacto numero="3"></NdeContacto>
+    <nombre>Nombre: Francisco Gabriel</nombre>
+    <telefonoFijo>Telefono fijo: 2268-9874</telefonoFijo>
+    <celular>Celular: 6398-5469</celular>
+    <direccion>Direccion: 1ª Calle Poniente entre 60ª Avenida Norte y Boulevard Constitución No. 3549</direccion>
+    <email>email: francisco@gmail.com</email>
+  </contacto>
+</agenda>
